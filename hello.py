@@ -1,4 +1,4 @@
 var1="matin"
-print("okk")
+print("ok")
 if( if var1=="matin")
     print("Bonjour")
